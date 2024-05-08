@@ -1,0 +1,33 @@
+.container {
+    width: Fixed (1, 300px)px;
+    height: Hug (543px)px;
+    top: 3028px;
+    padding: 56px 100px;
+    gap: 16px;
+    background: #00BAFC;
+    align-items: center;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.form {
+    width: 348px;
+    height: 304px;
+    padding: 24px 0px 0px 0px;
+    gap: 16px;
+    background: #FFFFFF;
+    align-items: center;
+}
